@@ -1,2 +1,0 @@
-# KelasMemasak
-FindIT2022
