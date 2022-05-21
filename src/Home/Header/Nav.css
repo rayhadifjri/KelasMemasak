@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Coldiac;
+    src: url(../../Fonts/Coldiac.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.Sosialm .first{
+    height: 13px;
+    width: 13px;
+    margin-left: 50px;
+}
+
+.Sosialm img{
+    margin-left: 26.72px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+

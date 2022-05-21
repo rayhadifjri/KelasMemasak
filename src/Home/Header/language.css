@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Coldiac;
+    src: url('../../Fonts/Coldiac.ttf');
+}
+
+.Dropdowns {
+    font-family: Coldiac;
+    color: #5B5B5B;
+    user-select: none;
+    position: absolute;
+    left: 70.757%;
+    font-size: 12px;
+    background: #fff;
+    width: 115px;
+    top: 22.5px;
+}
+
+.Dropdowns-btn {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.options {
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.options:hover{
+    background: #fcfcfc;
+}
+
+.Dropdowns img {
+    margin-left: 4px;
+    transform: rotate(90deg);
+    width: 8px;
+    height: 6px;
+}
+
+
+

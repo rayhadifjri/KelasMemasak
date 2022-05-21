@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navdrop{
+    height: 44px;
+    background: #303841;
+}
+
+.navdrop .dropdowncenter {
+    color: #fff;
+    text-align: center;
+}
+
+.navdrop .dropdowncenter .uldropdown{
+    list-style: none;
+    display: inline-flex;
+    font-size: 14px;
+}
+
+.dropdowncenter li{
+    width: 75px;
+    margin-top: 10.5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.dropdowncenter li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.dropdownoptions, .dropdownoptions1 {
+    height: 44px;
+}
+
+.dropdownoptions img, .dropdownoptions1 img {
+    margin-left: 5px;
+    width: 9px;
+    height: 8px;
+}
+
+.dropdowncenter .dropdownoptionsale a{
+    color:  #FF0000;
+}
+
+.dropdownoptions1:hover .mega-box {
+    visibility: visible;
+}
+
+.mega-box {
+    visibility: hidden;
+}
+
+.sub-menu-list {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 180px; 
+    background: #303841;
+    display:block;
+    
+}
+
+.sub-menu-list li {
+    position: relative;
+    z-index: 4;
+    font-size: 14px;
+    list-style: none;
+    margin-top: 15px;
+    
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+.sub-menu-list li a{
+    display: block;
+    width: max-content;
+}
+
+.F1 {
+    left: 43.6%;
+}
+
+.F2 {
+    left: 43.9%;
+}
+
+.F3 {
+    left: 43.85%;
+}
+
+.F4 {
+    left: 43.34%;
+}
+
+.F5 {
+    left: 46.5%;
+}
+
+.ulright li {
+    position: relative;
+    z-index: 2;
+    left: 88%;
+    top:-62.5px;
+    list-style: none;
+    display: inline;
+}
+
+.search {
+    width: 18px;
+    height: 14px;
+    margin-left: 10px;
+}
+
+.love {
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+}
+
+.keranjang {
+    width: 22px;
+    height: 15px;
+    margin-left: 10px;
+}
+
+.pict {
+    width: 100%;
+    height: 277px;
+}

@@ -1,0 +1,42 @@
+@font-face {
+    font-family: Coldiac;
+    src: url('/src/Fonts/Coldiac.ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div a {
+    text-decoration: none;
+    color: #5B5B5B;
+    font-size: 12px;
+}
+
+.Linkto {
+    margin-left: 12px;
+    font-family: Coldiac;
+    position: absolute;
+    left: 85.476%;
+    display: flex;
+    color: #5B5B5B;
+    top:23px;
+}
+
+div .login {
+    margin-left: 25px;
+}
+
+.signup a {
+    color: #F0A500;
+    
+}
+
+.signup a:hover {
+    color: #F0A500;
+}
+
+.login a:hover{
+    color: #5B5B5B;
+}

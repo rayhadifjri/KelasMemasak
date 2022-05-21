@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Coldiac;
+    src: url('../../Fonts/Coldiac.ttf');
+}
+
+.currency-top {
+    font-family: Coldiac;
+    color: #5B5B5B;
+    display: flex;
+    user-select: none;
+    position: absolute;
+    left: 79.5%;
+    font-size: 12px;
+    background: #fff;
+    width: 115px;
+    top: 22.5px;
+}
+
+.currency-first {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.cur-op {
+    padding-left: 5px;
+    cursor: pointer;
+    display: none;
+}
+
+.cur-op:hover{
+    background: #fcfcfc;
+}
+
+.currency-top .currency-first img {
+    margin-left: 4px;
+    transform: rotate(90deg);
+    width: 8px;
+    height: 6px;
+}
+
+.currency-top .garis img {
+    margin-left: 25px;
+    margin-top: 6px;
+    color: #5B5B5B;
+}
